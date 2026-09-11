@@ -1,0 +1,10 @@
+{
+  "id": 160866965,
+  "created_at": "2026-09-11T11:55:06.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["ckbtools", "ckbiobank.r-universe.dev"]
+}
